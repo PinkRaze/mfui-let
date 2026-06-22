@@ -4,4 +4,4 @@
 
 ## [ Работа по SSh ](./lb24_ssh.md)
 
-## [ Работа по VncRdp ](./VncRdp)
+## [ Работа по VncRdp ](./lb_vnc_rdp.md)
