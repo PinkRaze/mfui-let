@@ -2,6 +2,6 @@
 
 ## [ Работа по конфигам ](./LaboratoryEleven_StepTwo(Config))
 
-## [ Работа по SSh ](./Laboratory№24(SSH))
+## [ Работа по SSh ](./lb24 ssh.md)
 
 ## [ Работа по VncRdp ](./VncRdp)
